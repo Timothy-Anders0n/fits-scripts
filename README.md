@@ -1,5 +1,5 @@
 # Scripts used with FITS file for the Tangent Gamma data analysis
 
-Contributors: \n
-Luigi Tibaldo (Main) \n
+Contributors: <br>
+Luigi Tibaldo (Main) <br>
 Timothy Anderson
